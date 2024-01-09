@@ -26,10 +26,7 @@
 - ⚡[Creative Agency Business Website | AddHype UAE, Pakistan](https://weaddhype.com)👨‍💻📸🎥
 - ⚡[Tech Stratup Dynamic Website | Techhype UAE, Pakistan, Canada](https://techhype.ae)👨‍💻
 - ⚡[Ecommerce Store Shopify | BlackTulip UK](https://blacktulipstudio.com/)👨‍💻
-- 🌱 I’m currently learning everything 📝
-- 👯 I’m looking to collaborate with other content creators 🎥
-- 👨‍💻 Goals: Contribute more to Open Source projects 👨‍💻
-- ⚡ Fun fact: I love photography 📸 and basketball 🏀
+
 
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/Saurabh_Pandey-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_inertiaa) 
