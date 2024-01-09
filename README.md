@@ -144,12 +144,12 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
 
 ## Latest YouTube Videos 📺
 
-- [VIRTUAL ASSISTANT USING C++ || ARTIFICIAL INTELLIGENCE || CODE INERTIA](https://youtu.be/4Ln_DYiGnVA)
-- [ARTIFICIAL INTELLIGENCE PROJECT | USING PYTHON | ROCK, PAPER OR SCISSORS GAME | CODE INERTIA](https://youtu.be/BK8IQUGMrSc)
-- [LET ME READ YOUR MIND USING THIS PYTHON CODE | AKINATOR | PYTHON | CODE INERTIA](https://youtu.be/_1A9Z8rB4Vc)
-- [How to Create Music Player | Using HTML, CSS, AND JAVASCRIPT | CODE INERTIA](https://youtu.be/2ts4Fx1_0Z8)
-- [Movie Landing Page Website Design | Html CSS & Javascript](https://youtu.be/PhW2YGaOOrQ)
+- [Wordpress Course By Qasim Mughal](https://www.youtube.com/watch?v=pkNVf37fnqs&list=PLKDsi0_nVGbM_T8DhzKLMl-w6NWqsCaNj)
+- [Complete Shopify Store](https://www.youtube.com/watch?v=WcOyeNm1mKo&list=PLKDsi0_nVGbP84kgl6Jn4Y8Vct9hx_BBr)
+- [Fiverr Pro Seller Training](https://www.youtube.com/watch?v=i3K4GeRCHe0&list=PLKDsi0_nVGbO9tdFeWRlkFDSx632ntf_V)
+- [Wordpress Complete Website](https://youtu.be/CKVs4v85qio?si=p1oidke_pGrfsqPb)
+- [Freelancing Tips & Tricks](https://www.youtube.com/watch?v=VQpc2D3s9Co&list=PLKDsi0_nVGbOEwP_zUrTeq3m0uMYD9nuz)
 
-- ➡️ [more videos...](https://www.youtube.com/channel/UCmpXdOaZAIXfAG4kKSdrPDA)
+- ➡️ [more videos...](https://www.youtube.com/@QasimMughal95)
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
