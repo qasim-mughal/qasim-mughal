@@ -29,9 +29,9 @@
 
 
 ## Connect with me:
-[![Instagram](https://img.shields.io/badge/Saurabh_Pandey-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_inertiaa) 
-[![Instagram](https://img.shields.io/badge/happy_snappy-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/happy._.snappy_/) [![YouTube](https://img.shields.io/badge/code_inertia-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCmpXdOaZAIXfAG4kKSdrPDA) [![Website](https://img.shields.io/website?label=codeinertia&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://inertiaa.tech/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-pandey-161348200)
+[![Instagram](https://img.shields.io/badge/Saurabh_Pandey-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_qasimmughal__/) 
+[![Instagram](https://img.shields.io/badge/happy_snappy-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_techbard_/) [![YouTube](https://img.shields.io/badge/code_inertia-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@QasimMughal95) [![Website](https://img.shields.io/website?label=codeinertia&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://qasimmughal.pk/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qasim-mughal-84a9b1107/)
 
 
 
