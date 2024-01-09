@@ -1,6 +1,6 @@
 
 # 👋Hi there, I'm Qasim Mughal - Fiverr/ Upwork Toprated Freelancer👑
-
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](qasim.csengineer@gmail.com)
 [![Website](https://img.shields.io/website?label=codeinertia&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://qasimmughal.pk/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qasim-mughal-84a9b1107)
 [![YouTube](https://img.shields.io/badge/code_inertia-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCet2g8YNQLrRslnYnesvZCw)
