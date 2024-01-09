@@ -21,7 +21,11 @@
 
 # Portfolio List 📫
 
-- ⚡[Kitebeach Website UAE](https://www.kitebeach.ae/)
+- ⚡[Kitebeach Website UAE](https://www.kitebeach.ae/) 🏀
+- ⚡[Ecommerce Store Shopify | BlackTulip UK](https://blacktulipstudio.com/)👨‍💻
+- ⚡[Creative Agency Business Website | AddHype UAE, Pakistan](https://weaddhype.com)👨‍💻📸🎥
+- ⚡[Tech Stratup Dynamic Website | Techhype UAE, Pakistan, Canada](https://techhype.ae)👨‍💻
+- ⚡[Ecommerce Store Shopify | BlackTulip UK](https://blacktulipstudio.com/)👨‍💻
 - 🌱 I’m currently learning everything 📝
 - 👯 I’m looking to collaborate with other content creators 🎥
 - 👨‍💻 Goals: Contribute more to Open Source projects 👨‍💻
