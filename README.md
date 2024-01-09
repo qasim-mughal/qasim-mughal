@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/qasim-mughal/qasim-mughal/main/Welcome%20to%20my%20Github.png
+[![MasterHead](https://github.com/qasim-mughal/qasim-mughal/blob/main/Welcome%20to%20my%20Github.png
 )](https://inertiaavercel.app)
 
 # Hi, I'm Qasim Mughal - Wordpress Pro Laravel/ PHP Developer👋
