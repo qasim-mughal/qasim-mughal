@@ -8,10 +8,10 @@
 [![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/reddevill)
 [![YouTube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCet2g8YNQLrRslnYnesvZCw)
 <p align="left">
-  <a href="https://github.com/reddevill007?tab=repositories&sort=stargazers">
+  <a href="https://github.com/qasim-mughal?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/reddevill007"/></a>
   <a href="https://github.com/qasim-mughal?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/reddevill007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/qasim-mughal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/reddevill007?tab=followers">
   <img src="https://komarev.com/ghpvc/?username=reddevill007&label=Profile%20views&color=0e75b6&style=flat" alt="reddevill007" /> </a>
   <a href="https://wakatime.com/@6272f51b-f805-4bdd-848f-e3a45d99fcf4"><img src="https://wakatime.com/badge/user/6272f51b-f805-4bdd-848f-e3a45d99fcf4.svg" alt="Total time coded since Nov 20 2022" /></a>
