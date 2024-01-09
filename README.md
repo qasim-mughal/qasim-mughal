@@ -3,11 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=codeinertia&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://qasimmughal.pk/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qasim-mughal-84a9b1107)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/inertiaa)
-[![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/reddevill)
 [![YouTube](https://img.shields.io/badge/code_inertia-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCet2g8YNQLrRslnYnesvZCw)
-
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.youtube.com/channel/UCmpXdOaZAIXfAG4kKSdrPDA)
 
 # I'm a Wordpress/PHP/Laravel/Shopify Developer,Freelancer & Youtuber
 
@@ -16,7 +12,7 @@
 - 👨‍💻 Goals: Contribute more to Open Source projects 👨‍💻
 - ⚡ Fun fact: I love to learn new inventions an create digital solutions
 
-# I'm a Wordpress/PHP/Laravel/Shopify Developer,Freelancer & Youtuber
+# Portfolio
 
 - 🌱 I’m currently lead tech department of a UAE Based Company 📝
 - 👯 I’m looking to collaborate with creative programmers  🎥
