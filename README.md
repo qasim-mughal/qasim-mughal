@@ -1,7 +1,6 @@
-[![MasterHead](https://github.com/reddevill007/reddevill007/blob/main/banner2__1_-removebg-preview.png
-)](https://inertiaavercel.app)
 
-# Hi, I'm Qasim Mughal - Wordpress Pro Laravel/ PHP Developer !!! 👋
+
+# Hi, I'm Qasim Mughal - Wordpress Pro Laravel/ PHP Developer👋
 [![Website](https://img.shields.io/website?label=codeinertia&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://inertiaa.tech/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-pandey-161348200)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/inertiaa)
