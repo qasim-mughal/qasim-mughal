@@ -1,5 +1,5 @@
 
-# Hi there, I'm Qasim Mughal - Code Inertia!!! 👋
+# 👋Hi there, I'm Qasim Mughal - Fiverr/ Upwork Toprated Freelancer👑
 
 [![Website](https://img.shields.io/website?label=codeinertia&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://qasimmughal.pk/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qasim-mughal-84a9b1107)
