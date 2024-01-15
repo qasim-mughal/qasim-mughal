@@ -128,12 +128,12 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=reddevill007
  <br>
 
 
-<h2 align="center">My contribution Streak 🔥</h2>
+<h2 align="center">My Contribution Streak 🔥</h2>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=reddevill007&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
  </p>
  
-  <h2 align="center">Frequently used Language 📺</h2>
+  <h2 align="center">Frequently Used Language 📺</h2>
 <p align="center">
   <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=reddevill007&theme=dark&hide_border=true&background=22272e&stroke=0000"/>
