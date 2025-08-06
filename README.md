@@ -1,5 +1,3 @@
-[![MasterHead](
-)](https://itechbard.com)
 
 # Hi, I'm Qasim Mughal - Shopify Developer / WordPress Dev / Laravel Developer👋
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://qasimmughal.pk/)
