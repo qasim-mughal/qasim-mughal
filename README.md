@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/qasim-mughal/qasim-mughal/blob/main/Welcome%20to%20my%20Github.png
 )](https://inertiaavercel.app)
 
-# Hi, I'm Qasim Mughal - Wordpress Pro Laravel/ PHP Developer👋
+# Hi, I'm Qasim Mughal - Shopify Developer / Wordbress / PHP Laravel Developer👋
 [![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://qasimmughal.pk/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qasim-mughal-84a9b1107)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/inertiaa)
